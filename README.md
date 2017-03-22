@@ -4,9 +4,9 @@ A.I - Implemented Minimax algorithm with ab-pruning using iterative deepening to
 Injected 5 different heuristics with adjustable weights to evaluate moves:
 ```
 smoothness (Αdjacent tiles should decrease in value but neighbor tiles should be close enough to potentially merge)
-monotonicity (Values of the tiles should all either increasing or decreasing along both the left/right and up/down directions)
-emptiness (Evaluates each move based on the number of empty cells it generates)
-maxvalue (Evaluates each move based on the maximum value a potential merge can generate but do this based on empty cells)
+monotonicity (Values of the tiles should either increasing or decreasing along the left/right and up/down directions)
+emptiness (Evaluates based on the number of empty cells it generates)
+maxvalue (Evaluates based on the maximum value a potential merge can generate but do this based on empty cells)
 distance (Measures the manhattan distance of the maximum tile from the upper-left corner)
 ```
 
