@@ -14,4 +14,4 @@ distance (Scalable distance from the upper-left corner of the grid)
 GameManager.py
 
 ## Results
-![alt tag](http://www.supergramm.com/media/images/github/2048puzzleresult.jpg)
+![alt tag](http://www.supergramm.com/media/images/github/results.jpg)
