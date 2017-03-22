@@ -11,7 +11,9 @@ distance (Measures the manhattan distance of the maximum tile from the upper-lef
 ```
 
 ## Usage
+```
 python GameManager.py
+```
 
 ## Results
 The agent surpassed the goal of 2048 value tile and got to 4096. Probably with a minor change on strategy, maybe dynamically altering the heuristic weights, it may go even further.
