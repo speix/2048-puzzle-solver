@@ -10,6 +10,9 @@ maxvalue (Evaluates each move based on the maximum value a potential merge can g
 distance (Measures the manhattan distance of the maximum tile from the upper-left corner)
 ```
 
+## Actual Game
+http://2048game.com/
+
 ## Usage
 ```
 python GameManager.py
