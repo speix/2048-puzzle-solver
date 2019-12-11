@@ -21,4 +21,4 @@ python GameManager.py
 ## Results
 The agent surpassed the goal of 2048 value tile and got to 4096. Probably with a minor change on strategy, maybe dynamically altering the heuristic weights, it may go even further.
 
-![alt tag](https://d36vhvif6yp6yo.cloudfront.net/main/images/github/2048puzzleresults.jpg)
+![alt tag](https://s3.eu-central-1.amazonaws.com/files.supergramm.com/main/images/github/2048puzzleresults.jpg)
